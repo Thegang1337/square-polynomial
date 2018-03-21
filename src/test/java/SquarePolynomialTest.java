@@ -16,7 +16,7 @@ public class SquarePolynomialTest {
                 { new double[] {0, 2, 0}, new double[] { 0 } },
                 { new double[] {0, 2, 2}, new double[] { -1 } },
                 { new double[] {0, 0, 3}, null },
-                { new double[] {0, 0, 0}, null }
+                { new double[] {0, 0, 0}, null },
         };
     }
 
